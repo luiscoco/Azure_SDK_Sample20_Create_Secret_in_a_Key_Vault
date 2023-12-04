@@ -22,7 +22,7 @@ Navigate to the Azure ResourceGroup where the Azure KeyVault was created
 
 ![image](https://github.com/luiscoco/Azure_SDK_Sample20_Create_Secret_in_a_Key_Vault/assets/32194879/e75c266a-3f4b-4fcf-971c-342c41e891f8)
 
-Grant permssion to the 
+Grant permssion to the ResourceGroup as KeyVault Administrator 
 
 ![image](https://github.com/luiscoco/Azure_SDK_Sample20_Create_Secret_in_a_Key_Vault/assets/32194879/20cc896e-6cb9-494e-b857-fd7a8fe42c11)
 
@@ -34,12 +34,6 @@ Grant permssion to the
 
 ![image](https://github.com/luiscoco/Azure_SDK_Sample20_Create_Secret_in_a_Key_Vault/assets/32194879/4e097128-f331-46e7-b60f-582dae2867f7)
 
-
-
-
-
-
-
 ## 3. Input the C# console application source code
 
 ```csharp
@@ -47,7 +41,7 @@ using Azure.Identity;
 using Azure.Security.KeyVault.Secrets;
 
 // Create a secret client using the DefaultAzureCredential
-var client = new SecretClient(new Uri("https://myNewVault1974.vault.azure.net/"), new DefaultAzureCredential());
+var client = new SecretClient(new Uri("https://myNewVault1975.vault.azure.net/"), new DefaultAzureCredential());
 
 try
 {
