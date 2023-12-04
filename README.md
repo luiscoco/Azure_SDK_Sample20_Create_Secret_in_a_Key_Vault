@@ -16,8 +16,25 @@ IMPORTANT NOTE: pay attention go to the "**Access configuration**" tab, and sele
 
 ![image](https://github.com/luiscoco/Azure_SDK_Sample20_Create_Secret_in_a_Key_Vault/assets/32194879/1a05e5c1-3e66-4cdc-8e85-9cc5a1bae0aa)
 
-
 ## 2. Grant permission to the KeyVault ResourceGroup to 
+
+Navigate to the Azure ResourceGroup where the Azure KeyVault was created
+
+![image](https://github.com/luiscoco/Azure_SDK_Sample20_Create_Secret_in_a_Key_Vault/assets/32194879/e75c266a-3f4b-4fcf-971c-342c41e891f8)
+
+Grant permssion to the 
+
+![image](https://github.com/luiscoco/Azure_SDK_Sample20_Create_Secret_in_a_Key_Vault/assets/32194879/20cc896e-6cb9-494e-b857-fd7a8fe42c11)
+
+![image](https://github.com/luiscoco/Azure_SDK_Sample20_Create_Secret_in_a_Key_Vault/assets/32194879/5160a99a-5a00-45b1-b06e-afe700e5372a)
+
+![image](https://github.com/luiscoco/Azure_SDK_Sample20_Create_Secret_in_a_Key_Vault/assets/32194879/1eb08593-23ae-43db-9c31-24d0f5632195)
+
+![image](https://github.com/luiscoco/Azure_SDK_Sample20_Create_Secret_in_a_Key_Vault/assets/32194879/a146bda0-501f-4c34-a2a8-f255a269528f)
+
+![image](https://github.com/luiscoco/Azure_SDK_Sample20_Create_Secret_in_a_Key_Vault/assets/32194879/4e097128-f331-46e7-b60f-582dae2867f7)
+
+
 
 
 
