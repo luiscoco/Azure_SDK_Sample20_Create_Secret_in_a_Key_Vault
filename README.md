@@ -41,7 +41,7 @@ using Azure.Identity;
 using Azure.Security.KeyVault.Secrets;
 
 // Create a secret client using the DefaultAzureCredential
-var client = new SecretClient(new Uri("https://myNewVault1975.vault.azure.net/"), new DefaultAzureCredential());
+var client = new SecretClient(new Uri("https://myNewVault2000.vault.azure.net/"), new DefaultAzureCredential());
 
 try
 {
