@@ -1,5 +1,7 @@
 # Azure SDK  Sample20 Create Secret in a Key Vault
 
+https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/keyvault/Azure.Security.KeyVault.Secrets
+
 ## 1. Cretate an Azure KeyVault
 
 Login in Azure portal and navigate into the KeyVault service.
