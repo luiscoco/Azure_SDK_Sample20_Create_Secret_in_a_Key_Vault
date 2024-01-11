@@ -1,4 +1,4 @@
-# Azure SDK  Sample20 Create Secret in a Key Vault
+# How to create Azure Key Vault with Azure SDK for .NET
 
 https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/keyvault/Azure.Security.KeyVault.Secrets
 
